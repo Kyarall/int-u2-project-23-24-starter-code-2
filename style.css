@@ -26,4 +26,8 @@ h2 {
 .section {
     border: 5px black solid;
     margin:5px;
+  background-color:darkgreen;
+}
+body{
+  background-color:yellowgreen;
 }
